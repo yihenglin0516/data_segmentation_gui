@@ -1,4 +1,5 @@
 # data_segmentation_gui
+This app provide an adjustable segmentaion point estimation algorithm and gui for data segmentaion  
 ## next 
 next output the current audio and load the next audio
 ## adjust 
